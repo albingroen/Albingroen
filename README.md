@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Basikit (yet another React.js component library)
+- 🔭 I’m currently working on [Basikit](https://www.basikit.com) (Accessible and moderns React component libarary)
 - 🌱 I’m currently learning TypeScript
 - 👯 I’m looking to collaborate on anything!
 - 🤔 I’m looking for help with career advice
