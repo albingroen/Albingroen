@@ -1,6 +1,6 @@
 # Hi there, I'm Albin - a software developer from Sweden
 
-- 🔭 I’m currently working on [Basikit](https://www.basikit.com) and [Dooer](https://dooer.com)
+- 🔭 I’m currently working at [Dooer](https://dooer.com)
 - 🌱 I’m currently learning TypeScript
 - 👯 I’m looking to collaborate on anything!
 - 🤔 I’m looking for help with career advice
