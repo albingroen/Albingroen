@@ -9,6 +9,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm pretty good at golf (8.8 handicap)
 
-## Latest posts
+## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
