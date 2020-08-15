@@ -15,5 +15,5 @@
 - [How I Finally Understood Redux](https://medium.com/javascript-in-plain-english/how-i-finally-understood-redux-ffb7666fab43?source=rss-dd8934e8db2f------2)
 - [How to Properly Set Up Express With TypeScript](https://levelup.gitconnected.com/how-to-properly-set-up-express-with-typescript-1b52570677c9?source=rss-dd8934e8db2f------2)
 - [Animating Your React Components](https://levelup.gitconnected.com/animating-your-react-components-8af7615ea61f?source=rss-dd8934e8db2f------2)
-- [How I’m Building My Own Visual Testing Library](https://medium.com/@albingroen/how-im-building-my-own-visual-testing-library-31a4f3bd127?source=rss-dd8934e8db2f------2)
+- [How I’m Building My Own Visual Testing Library](https://medium.com/swlh/how-im-building-my-own-visual-testing-library-31a4f3bd127?source=rss-dd8934e8db2f------2)
 <!-- BLOG-POST-LIST:END -->
