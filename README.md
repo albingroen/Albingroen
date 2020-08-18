@@ -11,7 +11,7 @@
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [7 Tips for Using Git at the Job](https://medium.com/@albingroen/7-tips-for-using-git-at-the-job-783ddd631e64?source=rss-dd8934e8db2f------2)
+- [7 Tips for Using Git at the Job](https://levelup.gitconnected.com/7-tips-for-using-git-at-the-job-783ddd631e64?source=rss-dd8934e8db2f------2)
 - [Optimistic Updates in React](https://levelup.gitconnected.com/optimistic-updates-in-react-803003844cb0?source=rss-dd8934e8db2f------2)
 - [How I Finally Understood Redux](https://medium.com/javascript-in-plain-english/how-i-finally-understood-redux-ffb7666fab43?source=rss-dd8934e8db2f------2)
 - [How to Properly Set Up Express With TypeScript](https://levelup.gitconnected.com/how-to-properly-set-up-express-with-typescript-1b52570677c9?source=rss-dd8934e8db2f------2)
