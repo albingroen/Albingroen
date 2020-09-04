@@ -1,4 +1,4 @@
-# Hi there, I'm Albin - a software developer from Sweden
+# Hi there, I'm Albin
 
 - 🔭 I’m currently working at [Dooer](https://dooer.com)
 - 🌱 I’m currently learning TypeScript
