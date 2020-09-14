@@ -1,15 +1,8 @@
-# Hi there, I'm Albin
+Hey, I'm Albin! I'm a self taught web developer focused on React and Typescript. I currently work at [Dooer](https://dooer.com), which is the second company I've worked at. I started out at a startup called [Wopify](https://wopify.com) where I got to take on a lot of responsibility early on and learned a whole lot.
 
-- 🔭 I’m currently working at [Dooer](https://dooer.com)
-- 🌱 I’m currently learning TypeScript
-- 👯 I’m looking to collaborate on anything!
-- 🤔 I’m looking for help with career advice
-- 💬 Ask me about anything!
-- 📫 How to reach me: https://albingroen.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm pretty good at golf (8.8 handicap)
+On my spare time I like to try out new technologies, attend meetups, speak at conferences. I also enjoy working out, playing sports and haning out with my friends.
 
-## Latest blog posts
+### Sometimes I write about what I learn
 <!-- BLOG-POST-LIST:START -->
 - [7 Tips for Using Git at the Job](https://levelup.gitconnected.com/7-tips-for-using-git-at-the-job-783ddd631e64?source=rss-dd8934e8db2f------2)
 - [Optimistic Updates in React](https://levelup.gitconnected.com/optimistic-updates-in-react-803003844cb0?source=rss-dd8934e8db2f------2)
