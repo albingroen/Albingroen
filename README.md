@@ -2,4 +2,4 @@ Hey, I'm Albin! I'm a self taught fullstack developer focused on React and Types
 
 On my spare time I like to try out new technologies, attend meetups, speak at conferences and meet new people. I also enjoy working out, playing sports and haning out with my friends.
 
-Down below you can find some of my many sideprojects.
+Down below you can find some of my many side projects.
