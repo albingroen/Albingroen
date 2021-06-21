@@ -10,11 +10,11 @@ Nice to meet you. Here are some links where you can read more about me and the w
 
 - [An Actually Usable Vim Setup](https://blog.albingroen.com/posts/an-actually-usable-vim-setup)
 
+- [How I Automated My Dotfiles Screenshots](https://blog.albingroen.com/posts/how-i-automated-my-dotfiles-screenshots)
+
 - [How to set up Ant Design with Next.js](https://blog.albingroen.com/posts/how-to-setup-ant-design-with-nextjs)
 
 - [I built a health tracker website](https://blog.albingroen.com/posts/i-build-self-tracker)
-
-- [I'm Joining Demando!](https://blog.albingroen.com/posts/im-joining-demando)
 
 - [My Indie Software Projects](https://blog.albingroen.com/posts/my-indie-projects)
 
