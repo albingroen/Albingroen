@@ -1,3 +1,0 @@
-- [Website](https://albingroen.com)
-- [Portfolio](https://portfolio.albingroen.com)
-- [Blog](https://blog.albingroen.com)
